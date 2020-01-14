@@ -1,6 +1,6 @@
 # GenerateHTMLPublicationsPage
 
-<i>This little script was written by <a href="https://www.drkenreid.github.com">Ken Reid</a> for the <a href="www.msuqg.github.io">MSU Quantitative Genetics website</a>. Please give it a star if you use it.</i>
+<i>This little script was written by <a href="https://www.github.com/drkenreid">Ken Reid</a> for the <a href="www.msuqg.github.io">MSU Quantitative Genetics website</a>. Please give it a star if you use it.</i>
 
 This works in 3 steps.
 
