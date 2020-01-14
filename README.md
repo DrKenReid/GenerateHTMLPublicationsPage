@@ -1,13 +1,13 @@
 # GenerateHTMLPublicationsPage
 
-<i>This little script was written by <a href="www.drkenreid.github.com">Ken Reid</a> for the <a href="www.msuqg.github.io">MSU Quantitative Genetics website</a>. Please give it a star if you use it.</i>
+<i>This little script was written by <a href="https://www.drkenreid.github.com">Ken Reid</a> for the <a href="www.msuqg.github.io">MSU Quantitative Genetics website</a>. Please give it a star if you use it.</i>
 
 This works in 3 steps.
 
 <ol>
     <li> Set up author names for parameters</li>
     <li> Run the scrape, keep only useful information. Removed non-unique entries.</li>
-    <li> Write the HTML page (this is customised for <a href = "www.msuqg.github.io">www.msuqg.github.io</a> but can be easily modified for your own usage). </li>
+    <li> Write the HTML page (this is customised for <a href = "https://www.msuqg.github.io">www.msuqg.github.io</a> but can be easily modified for your own usage). </li>
 </ol>
 
 If you would rather skip most of step 3 and simply copy-paste the scraped and HTML-ized data, that's fine too, see the end of step 3.
